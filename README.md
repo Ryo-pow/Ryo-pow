@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryo-pow&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-pow&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryo-pow&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-pow&layout=compact&theme=dark)
